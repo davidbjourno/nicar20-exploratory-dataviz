@@ -1,3 +1,4 @@
 pandas
 altair
 vega_datasets
+keplergl
