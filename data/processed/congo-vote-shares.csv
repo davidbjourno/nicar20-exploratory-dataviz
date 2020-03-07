@@ -1,0 +1,79 @@
+province,votants,votants_ccc,candidate,votes_pc_ceni,votes_pc_ccc
+Bas-Uele,161254,124303,Fayulu,78.68,78.02
+Equateur,289376,156023,Fayulu,84.03,84.00
+Haut-Katanga,753772,287913,Fayulu,63.03,63.16
+Haut-Lomami,373498,223115,Fayulu,20.61,19.81
+Haut-Uele,347527,251376,Fayulu,77.12,75.82
+Ituri,816148,369275,Fayulu,82.65,83.21
+Kasai,747442,317007,Fayulu,7.18,8.35
+Kasai Central,873312,383519,Fayulu,0.37,0.93
+Kasai Oriental,464380,198055,Fayulu,0.25,0.38
+Kinshasa,1787206,0,Fayulu,73.64,
+Kongo Central,729466,450432,Fayulu,84.21,83.42
+Kwango,526347,393485,Fayulu,88.72,88.69
+Kwilu,1071351,629050,Fayulu,92.67,94.87
+Lomami,493421,229984,Fayulu,19.38,18.94
+Lualaba,427651,168236,Fayulu,74.50,77.00
+Mai-Ndombe,292824,167879,Fayulu,70.64,71.49
+Maniema,473080,259804,Fayulu,24.76,26.68
+Mongala,318284,160383,Fayulu,88.51,88.94
+Nord-Kivu,1326136,605445,Fayulu,77.73,78.99
+Nord-Ubangi,229596,220230,Fayulu,75.55,77.02
+Sankuru,547628,229096,Fayulu,31.22,34.92
+Sud-Kivu,1314421,374863,Fayulu,45.17,55.10
+Sud-Ubangi,217420,198088,Fayulu,85.46,84.07
+Tanganyika,357920,215088,Fayulu,62.18,45.35
+Tshopo,526271,313422,Fayulu,79.15,78.41
+Tshuapa,281570,183469,Fayulu,70.71,74.77
+Bas-Uele,161254,124303,Shadary,8.46,8.65
+Equateur,289376,156023,Shadary,11.61,11.01
+Haut-Katanga,753772,287913,Shadary,12.65,11.98
+Haut-Lomami,373498,223115,Shadary,69.33,70.67
+Haut-Uele,347527,251376,Shadary,9.44,8.45
+Ituri,816148,369275,Shadary,7.08,5.57
+Kasai,747442,317007,Shadary,48.64,50.39
+Kasai Central,873312,383519,Shadary,6.42,5.98
+Kasai Oriental,464380,198055,Shadary,2.48,1.97
+Kinshasa,1787206,0,Shadary,7.65,
+Kongo Central,729466,450432,Shadary,8.05,8.20
+Kwango,526347,393485,Shadary,9.22,8.74
+Kwilu,1071351,629050,Shadary,5.96,3.71
+Lomami,493421,229984,Shadary,19.39,18.21
+Lualaba,427651,168236,Shadary,17.16,14.74
+Mai-Ndombe,292824,167879,Shadary,21.12,18.78
+Maniema,473080,259804,Shadary,69.38,65.52
+Mongala,318284,160383,Shadary,9.49,9.08
+Nord-Kivu,1326136,605445,Shadary,18.87,18.01
+Nord-Ubangi,229596,220230,Shadary,19.63,17.94
+Sankuru,547628,229096,Shadary,57.75,54.33
+Sud-Kivu,1314421,374863,Shadary,14.85,13.40
+Sud-Ubangi,217420,198088,Shadary,10.70,11.98
+Tanganyika,357920,215088,Shadary,32.35,49.93
+Tshopo,526271,313422,Shadary,13.64,12.48
+Tshuapa,281570,183469,Shadary,25.65,21.19
+Bas-Uele,161254,124303,Tshisekedi,2.24,1.96
+Equateur,289376,156023,Tshisekedi,1.31,1.40
+Haut-Katanga,753772,287913,Tshisekedi,19.61,19.15
+Haut-Lomami,373498,223115,Tshisekedi,4.24,2.38
+Haut-Uele,347527,251376,Tshisekedi,2.32,2.45
+Ituri,816148,369275,Tshisekedi,0.98,0.84
+Kasai,747442,317007,Tshisekedi,41.78,37.37
+Kasai Central,873312,383519,Tshisekedi,92.04,91.06
+Kasai Oriental,464380,198055,Tshisekedi,96.10,96.05
+Kinshasa,1787206,0,Tshisekedi,17.19,
+Kongo Central,729466,450432,Tshisekedi,3.30,3.47
+Kwango,526347,393485,Tshisekedi,0.45,0.55
+Kwilu,1071351,629050,Tshisekedi,0.54,0.42
+Lomami,493421,229984,Tshisekedi,56.55,57.15
+Lualaba,427651,168236,Tshisekedi,2.63,2.39
+Mai-Ndombe,292824,167879,Tshisekedi,1.37,1.45
+Maniema,473080,259804,Tshisekedi,1.42,1.70
+Mongala,318284,160383,Tshisekedi,0.47,0.51
+Nord-Kivu,1326136,605445,Tshisekedi,1.88,1.48
+Nord-Ubangi,229596,220230,Tshisekedi,0.86,0.86
+Sankuru,547628,229096,Tshisekedi,8.52,6.65
+Sud-Kivu,1314421,374863,Tshisekedi,37.73,28.62
+Sud-Ubangi,217420,198088,Tshisekedi,0.70,0.88
+Tanganyika,357920,215088,Tshisekedi,1.32,1.06
+Tshopo,526271,313422,Tshisekedi,1.55,1.72
+Tshuapa,281570,183469,Tshisekedi,0.68,0.75
